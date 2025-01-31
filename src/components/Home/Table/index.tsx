@@ -83,7 +83,7 @@ const Table = () => {
                     </table>
                 </div>
             </div>
-            <Image src={'/images/Table/Untitled.svg'} alt="ellipse" width={2460} height={102} />
+            <Image src={'/images/table/Untitled.svg'} alt="ellipse" width={2460} height={102} />
         </section>
     )
 }
