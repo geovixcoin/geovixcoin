@@ -1,7 +1,6 @@
 ## Crypto Nextjs Landing Page Template
 [View Live Preview](https://crypto-tailwind-nextjs-free.vercel.app/) | [Download](https://getnextjstemplates.com/products/crypto-free-nextjs-landing-page-template-with-tailwind-css-headless-ui) | [Check Out Nextjs Templates](https://getnextjstemplates.com/)
 
-
 <a target="_blank" href="https://getnextjstemplates.com/products/crypto-free-nextjs-landing-page-template-with-tailwind-css-headless-ui">
   <img src="https://adminmart.github.io/template_api/images/website-template/Crypto-Free-NextJs-Landing-Page-Template-with-Tailwind-CSS.jpg" />
 </a>
