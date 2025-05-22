@@ -11,7 +11,7 @@
 This Next.js landing page is a great starting point for developers who want to build a crypto exchange or wallet website fast. It comes with ready-made sections, clean design, and easy-to-edit code using Tailwind CSS and Headless UI. 
 
 </p>
-<p style="text-align:center;"> Crypto Free NextJs Landing Page Template Built upon React framework is perfect for building crypto exchange and wallet websites quickly. It comes with ready-made sections and clean design, so you can launch your site faster without starting from scratch.
+<p style="text-align:center;"> Crypto Free NextJs Landing Page Template Built upon React framework is perfect for building crypto trading homepages quickly. It comes with ready-made sections and clean design, so you can launch your site faster without starting from scratch.
 
 It’s built with Next.js, Tailwind CSS, and Headless UI – making it fast, responsive, and easy to customize. Ideal for developers who want to focus on the core features of their crypto platform.
 </p>
