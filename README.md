@@ -19,7 +19,7 @@ It’s built with Next.js, Tailwind CSS, and Headless UI – making it fast, res
 ---
 ## 💾 Installation Guide
 
-Welcome to the **Dsign Nextjs Landing Page Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom web page in no time.
+Welcome to the **Crypto Nextjs Landing Page Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom web page in no time.
 
 ### 📝 Steps to Install
 
